@@ -1,5 +1,5 @@
 # 👋 Welcome to Glamo Vietnam!
-<img width="3437" height="900" alt="LOGO GLAMO-01" src="https://github.com/user-attachments/assets/1f2eb9ef-7180-426c-8835-8ff9d6822d68" />
+<img width="3437" height="900" alt="output-onlinepngtools" src="https://github.com/user-attachments/assets/00bda204-4e80-4e92-a12f-5776aa0407b4" />
 
 We are a team building the **Glamo smart home ecosystem**, including hardware devices and software such as the G4 hub, the 9DOTs mobile app, and more.
 
